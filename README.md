@@ -1,0 +1,2 @@
+# Stock-Price-Prediction
+Applied back propagation Neural Network models to predict the daily S&amp;P500 Exchange Composite Index. Constructed learning algorithm and gradient search technique in the models. Evaluated the prediction models. Used past data form stock exchange to predict stocks and the potential increase or decrease of a company’s stock prices. Technology used: Language: R Software: R Studio, Shiny R Packages used: tseries, quantmod, neuralnet.
